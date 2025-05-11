@@ -1,10 +1,7 @@
 {
     "name": "CDTU.DialogueSystem",
     "rootNamespace": "CDTU.DialogueSystem",
-    "references": [
-        "CDTU.Core",
-        "CDTU.EventSystem"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
