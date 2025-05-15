@@ -1,6 +1,6 @@
 # Unity对话系统使用文档
 
-[English](README.EN_DialogueSystem.md)
+[English](DialogueSystem/README.EN_DialogueSystem.md)
 
 ## 系统简介与架构
 
